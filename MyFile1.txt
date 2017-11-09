@@ -1,1 +1,6 @@
 Test 12345 - checking for modified file
+
+Test 99 - checking stage file
+
+
+Test 3 to find the diff functionality from cached folder
